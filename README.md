@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![ENGLISH](https://img.shields.io/badge/English-Doc-blue.svg?style=for-the-badge)](./doc/README_ENG.md)
 
 一个强大的 Hexo 过滤器，它能根据成熟的中文文案排版规范，自动优化你的文章内容。它能智能地添加空格、统一标点符号、修正专有名词，从而提升文章的可读性与专业性，同时能安全地忽略所有代码块。
 

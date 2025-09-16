@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E6%96%87%E6%A1%A3-blue.svg?style=for-the-badge)](../README.md)
 
 A powerful Hexo filter that automatically refines your post content according to established Chinese copywriting guidelines. It intelligently adds spacing, standardizes punctuation, and corrects proper nouns to enhance readability and professionalism, all while safely ignoring code blocks.
 
