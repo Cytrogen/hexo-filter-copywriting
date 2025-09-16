@@ -1,0 +1,34 @@
+{
+  "name": "hexo-filter-copywriting",
+  "version": "1.0.0",
+  "description": "A Hexo filter to automatically apply Chinese copywriting guidelines for enhanced readability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "cytrogen/hexo-filter-copywriting",
+  "keywords": [
+    "Hexo",
+    "Hexo-plugin",
+    "Hexo-filter",
+    "Copywriting",
+    "Typography",
+    "Formatter",
+    "Pangu",
+    "Spacing",
+    "Punctuation",
+    "Chinese",
+    "CJK"
+  ],
+  "author": "Cytrogen <halloweendemon3418@gmail.com> (https://cytrogen.icu)",
+  "readme": "https://github.com/cytrogen/hexo-filter-copywriting#readme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cytrogen/hexo-filter-copywriting/issues"
+  },
+  "homepage": "https://github.com/cytrogen/hexo-filter-copywriting#readme",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "pangu": "^7.2.0"
+  }
+}
